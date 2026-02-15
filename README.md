@@ -45,7 +45,7 @@ https://github.com/VenkataramananSelvaraju/neural-machine-translation-with-bleu
     ```
 2. **Input Text:** Enter a medical sentence in English (e.g., "The patient was diagnosed with acute pneumonia.").
 3. **Add References:** Enter the expected French translation. You can enter multiple versions on new lines.
-4. **Analyze:** Click **"Translate & Evaluate"** to view the NMT output, BLEU score, and precision table.
+4. **Analyze:** Click **"Generate Translation & Calculate BLEU"** to view the NMT output, BLEU score, and precision table.
 
 ## 📊 Understanding the Scores
 * **1-Gram:** Measures individual word accuracy (Medical vocabulary).
